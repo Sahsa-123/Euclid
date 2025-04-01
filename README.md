@@ -18,7 +18,7 @@
 ## 🚀 Запуск
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш-username/репозиторий.git
+git clone https://github.com/Sahsa-123/Euclid.git
 ```
 2. Откройте index.html в браузере
 
